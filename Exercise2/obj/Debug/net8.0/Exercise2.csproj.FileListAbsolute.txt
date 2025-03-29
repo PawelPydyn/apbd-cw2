@@ -1,0 +1,14 @@
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.exe
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.deps.json
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.runtimeconfig.json
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.dll
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\bin\Debug\net8.0\Exercise2.pdb
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.dll
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\refint\Exercise2.dll
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.pdb
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\Exercise2.genruntimeconfig.cache
+C:\Users\Pawel\source\repos\Exercise2\Exercise2\obj\Debug\net8.0\ref\Exercise2.dll

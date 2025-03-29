@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\exercise2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\exercise2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\kontenerowiec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\kontenerowiec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\kontener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\kontener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\kontenerchlodniczyc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\kontenerchlodniczyc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\kontenergazg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\kontenergazg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|c:\\users\\pawel\\source\\repos\\exercise2\\exercise2\\kontenerplynyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88886743-6E20-44E8-9A1F-801587E164B7}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\kontenerplynyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 869,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise2",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Exercise2.csproj",
+              "RelativeDocumentMoniker": "Exercise2\\Exercise2.csproj",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Exercise2.csproj",
+              "RelativeToolTip": "Exercise2\\Exercise2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T19:15:06.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kontener.cs",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Kontener.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Kontener.cs",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Kontener.cs",
+              "RelativeToolTip": "Exercise2\\Kontener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:52:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kontenerowiec.cs",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Kontenerowiec.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Kontenerowiec.cs",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Kontenerowiec.cs",
+              "RelativeToolTip": "Exercise2\\Kontenerowiec.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:48:06.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KontenerChlodniczyC.cs",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\KontenerChlodniczyC.cs",
+              "RelativeDocumentMoniker": "Exercise2\\KontenerChlodniczyC.cs",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\KontenerChlodniczyC.cs",
+              "RelativeToolTip": "Exercise2\\KontenerChlodniczyC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:34:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KontenerGazG.cs",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\KontenerGazG.cs",
+              "RelativeDocumentMoniker": "Exercise2\\KontenerGazG.cs",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\KontenerGazG.cs",
+              "RelativeToolTip": "Exercise2\\KontenerGazG.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:26:57.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KontenerPlynyL.cs",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\KontenerPlynyL.cs",
+              "RelativeDocumentMoniker": "Exercise2\\KontenerPlynyL.cs",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\KontenerPlynyL.cs",
+              "RelativeToolTip": "Exercise2\\KontenerPlynyL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:08:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\Pawel\\source\\repos\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeToolTip": "Exercise2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:54:01.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
